@@ -18,8 +18,10 @@ Visualizations will be created to help illustrate the findings of the analysis.
 
 ## Results ##
 
-The results of the analysis will be presented in the form of a report or presentation, with insights and recommendations for policy makers and individuals.
-Requirements
+The results of the analysis will be presented in the form of an Executive Summary, with insights and recommendations for policy makers and individuals.
+
+## Requirements ##
+
 Python 3.x
 pandas, numpy, matplotlib, seaborn
 API key from BLS and FRED
