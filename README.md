@@ -13,8 +13,8 @@ The data from both sources will be cleaned and prepared to ensure that they are 
 
 ## Analysis ##
 
-The data will be analyzed to identify any correlation between wage growth and rising childcare costs over the past 10 years.
-Visualizations will be created to help illustrate the findings of the analysis.
+The data will be analyzed to identify the relationaship between wage growth and rising childcare costs over the past 10 years.
+
 
 ## Results ##
 
@@ -29,10 +29,10 @@ API key from BLS and FRED
 ## How to run ##
 
 Clone the repository
-Run pip install -r requirements.txt to install required libraries
+Run pip install bls requirements.txt to install required libraries
 Replace "YOUR_API_KEY_HERE" with your BLS and FRED API key in the code
-Run python main.py to execute the script
+
 
 ## Conclusion ##
 
-This project will provide valuable insights into the relationship between wage growth and rising childcare costs, which will be useful for policy makers and individuals. It also serves as an example of how to use Python to retrieve and analyze economic data from multiple sources.
+This project will provide valuable insights into the relationship between wage growth and rising childcare costs, and serve as an example of how to use Python and pandas to retrieve and analyze economic data from multiple sources.
